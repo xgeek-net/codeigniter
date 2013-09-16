@@ -24,7 +24,7 @@ $config['system_name'] = 'Xgeek CI';
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://demo.dev.com/';
+$config['base_url']	= 'http://yourdomainname.com/';
 /*
 |--------------------------------------------------------------------------
 | Default Language
